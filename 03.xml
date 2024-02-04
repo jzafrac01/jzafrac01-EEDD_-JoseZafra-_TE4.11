@@ -24,4 +24,11 @@
     <genero>Fantasía</genero>
     <precio>15</precio>
   </libro>
+  <libro>
+           <titulo>El hombre bicentenario</titulo>
+           <autor>Isaac Asimov</autor>
+           <editorial>Edhasa</editorial>
+           <fecha>1976</fecha>
+           <genero>Ciencia ficción</genero>
+           <precio>20</precio>
 </libreria>
